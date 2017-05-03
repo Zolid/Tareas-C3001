@@ -1,0 +1,2 @@
+Para obtener datos de casa árbol varias los valores de i de los for,
+en cada caso.
